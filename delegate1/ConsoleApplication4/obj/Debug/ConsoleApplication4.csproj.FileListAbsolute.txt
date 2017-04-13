@@ -1,0 +1,6 @@
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Administrator.USER-20160720ED\Desktop\projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
